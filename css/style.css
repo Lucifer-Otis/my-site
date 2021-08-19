@@ -1,0 +1,38 @@
+
+
+#div1{
+  width:60%;
+  border-radius: 16px 16px 16px 16px;
+  background-color: black;
+  padding: 16px;
+  margin: 0  0 0 20%
+}
+#heading{
+   width:95%;
+  border-radius: 16px 16px 16px 16px;
+  background-color: black;
+  padding: 16px;
+  margin: 10px;
+}
+#myexperience{
+   width:auto;
+  border-radius: 16px 16px 16px 16px;
+  background-color: black;
+  padding: 16px;
+  margin: 1%;
+}
+.my-logo{
+  width: 100px;
+  height: 100px;
+  margin: 0  0 0 44%
+}
+.my-logo2{
+  width: 100px;
+  height: 100px;
+  margin: 0  0 0 44%
+}
+.hcl{
+  width: 100px;
+  height: 100px;
+  margin: 0  0 0 44%
+}
