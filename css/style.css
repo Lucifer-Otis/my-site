@@ -1,5 +1,3 @@
-
-
 #div1{
   width:60%;
   border-radius: 16px 16px 16px 16px;
@@ -32,7 +30,16 @@
   margin: 0  0 0 44%
 }
 .hcl{
+position : relative;
+  left: 10px;
   width: 100px;
   height: 100px;
-  margin: 0  0 0 44%
+  }
+.hclemp{
+  
+   width: 15%;
+  border-radius: 16px 16px 16px 16px;
+  background-color: white;
+  padding: 16px;
+  margin: 0  0 0 40.5%
 }
